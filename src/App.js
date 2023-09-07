@@ -30,7 +30,7 @@ const App = () => {
   // I tested the endpoints on "postman" and it's responsing with the data but doesn't work on my machine
   //i found in some articles that it's maybe blocked because of the localhost:3000
   //but the rest of the project is too much easy, 
-  //get the data from api and arranging it to html elements with some styles with css it will be greate,
+  //get the data from api and arranging it to html elements with some styles with css it will be greate
 
   const openMD = () => {
     setMarkDown(true)
